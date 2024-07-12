@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%94-green)
 
-- 💡 I have a passion for creativity, problem-solving. and a keen interest in technology.
+- 💡 I have a passion for creativity, problem-solving and a keen interest in technology.
 - 🌱 Currently learning and mastering the art of full stack development.
 - 🔧 Proficient in HTML, CSS, and JavaScript, and exploring Node.js for backend development.
 - 🚀 Excited about leveraging technology to build innovative solutions.
