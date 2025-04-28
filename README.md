@@ -7,10 +7,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%9C%94-green)
 
-- 💡 I have a passion for creativity, problem-solving and a keen interest in technology.
-- 🌱 Currently learning and mastering the art of full stack development.
-- 🔧 Proficient in HTML, CSS, and JavaScript, and exploring Node.js for backend development.
-- 🚀 Excited about leveraging technology to build innovative solutions.
-- 💻 Familiar with Git for version control and collaborative development.
+- 💡 I’m passionate about creativity, problem-solving, and building technology that makes a difference.
+- 🌱 Currently mastering full stack development, with a focus on clean, responsive web applications.
+- 🔧 Proficient in HTML, CSS, and JavaScript, exploring the power of Node.js for backend development.
+- 🚀 Eager to innovate, learn, and grow while creating impactful solutions in the web development space.
+- 💻 Experienced with Git for version control, ensuring seamless collaboration and efficient workflows.
 
-Let's connect and innovate together in the world of web development! 🌐
+Let’s connect and collaborate to create something amazing! 🌐
